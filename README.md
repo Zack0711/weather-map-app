@@ -17,4 +17,4 @@ Following to the below description to create a little web app.
    * [Google Map API](https://developers.google.com/maps/documentation)
    * [Open Weather API](https://openweathermap.org/current)
 2. Reference list of weather icon and condition id. 
-![Intro Image](/images/intro-02.jpg "Intro Image")
+![Intro Image](/images/intro-03.jpg "Intro Image")
